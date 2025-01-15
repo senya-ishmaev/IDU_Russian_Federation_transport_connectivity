@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Resp_Yakutija",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 129.732076880838207, 62.022838179468991 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 124.711284960060269, 56.657165365250172 ] } },
+{ "type": "Feature", "properties": { "id": "node/280078404" }, "geometry": { "type": "Point", "coordinates": [ 126.266853, 58.968536 ] } },
+{ "type": "Feature", "properties": { "id": "node/286554085" }, "geometry": { "type": "Point", "coordinates": [ 129.1540617, 61.48327 ] } },
+{ "type": "Feature", "properties": { "id": "node/301639437" }, "geometry": { "type": "Point", "coordinates": [ 114.9172123, 60.7145488 ] } },
+{ "type": "Feature", "properties": { "id": "node/301761027" }, "geometry": { "type": "Point", "coordinates": [ 113.978584, 62.541077 ] } },
+{ "type": "Feature", "properties": { "id": "node/301770161" }, "geometry": { "type": "Point", "coordinates": [ 112.2517294, 66.411768 ] } },
+{ "type": "Feature", "properties": { "id": "node/301775279" }, "geometry": { "type": "Point", "coordinates": [ 118.354149, 63.286648 ] } },
+{ "type": "Feature", "properties": { "id": "node/301778109" }, "geometry": { "type": "Point", "coordinates": [ 121.626549, 63.754082 ] } },
+{ "type": "Feature", "properties": { "id": "node/301959493" }, "geometry": { "type": "Point", "coordinates": [ 120.403496, 60.3729364 ] } },
+{ "type": "Feature", "properties": { "id": "node/302605557" }, "geometry": { "type": "Point", "coordinates": [ 133.387461800000011, 67.5495068 ] } },
+{ "type": "Feature", "properties": { "id": "node/1217884720" }, "geometry": { "type": "Point", "coordinates": [ 153.7071456, 67.455497 ] } },
+{ "type": "Feature", "properties": { "id": "node/2071063097" }, "geometry": { "type": "Point", "coordinates": [ 125.388222, 58.608414 ] } }
+]
+}
