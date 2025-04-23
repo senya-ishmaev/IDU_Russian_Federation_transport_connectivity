@@ -9,10 +9,4 @@ __3. Files, layers and notebook used to assess the transport connectivity of cit
 
    Technical task: https://colab.research.google.com/drive/1rcoFt-I-KmtKOGTzA8YSuX5O2TE0lzOK?usp=sharing
 
-   1:
- 
-   2:
-
-   <ins>All necessary data is in the archive `data.zip`</ins>
-
    Enjoy your work!
