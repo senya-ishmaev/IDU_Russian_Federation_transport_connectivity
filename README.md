@@ -3,10 +3,10 @@
 __1. About:__
    This repository stores layers, databases and a notebook that were used in the method for assessing the transport connectivity of cities in the Russian Federation.
 
-__2. Author :__ Arseniy Ishmaev (Student, Institute of Design & Urban Studies, ITMO University)
+__2. Author :__ Arseniy Ishmaev (Master student, Institute of Design & Urban Studies, ITMO University)
 
 __3. Files, layers and notebook used to assess the transport connectivity of cities:__
 
    Technical task: https://colab.research.google.com/drive/1rcoFt-I-KmtKOGTzA8YSuX5O2TE0lzOK?usp=sharing
 
-   Enjoy your work!
+   Have a nice work!
